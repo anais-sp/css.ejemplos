@@ -1,0 +1,54 @@
+h1{color: cadetblue;}
+
+.boton{
+    background-color: rgba(94, 248, 253, 1);
+    padding: 10px 20px 10px 20px;
+    color: rgb(42, 126, 165);
+    border-radius: 10px;
+    border-color: rgb(21, 156, 180);
+    font-size: 18px;
+    margin-top: 16px;
+}
+
+.boton:hover{
+     background-color: rgba(94, 243, 253, 0.5);
+     cursor: pointer;
+     color: black;
+}
+
+input:focus{outline: 3px solid #7fb41c;}
+
+label{color: blue;}
+p{font-style: italic;}
+
+h2{
+    font-size: 25px;
+    color: rgb(165, 126, 78);
+ }
+
+ .Titulo{
+    font-size: 25px ;
+    color: rgb(210, 30, 105);
+ }
+
+ .tarjeta{
+    border-radius: 10px;
+    background-color: gray;
+    min-height: 200px;
+    padding: 10px;
+ }
+
+.tarjeta-titulo{
+   background-color: black;
+   color: rgb(255, 229, 80);
+   text-transform: uppercase; 
+   padding: 10px;
+   font-size: 10px;
+   border-radius: 5px;
+}
+
+.tarjeta-subtitulo{
+   font-size: 16px;
+   font-weight: bold;
+
+}
